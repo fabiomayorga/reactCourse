@@ -1,0 +1,16 @@
+.weatherLocationContainer{
+    width: 100%;
+    text-align: left;
+    padding-left: 10px;
+    color: #888;
+}
+
+.locationContainer{
+    width: 400px;
+    padding: 15px;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.container{
+    width: 100% !important;
+}

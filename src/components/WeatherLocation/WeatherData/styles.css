@@ -1,0 +1,32 @@
+.weatherdataContainer {
+    background-color: rgba(194, 194, 194);
+    width: 400px;
+    height: 100px;
+    line-height: 100px;
+    display: flex;
+}
+
+.weatherExtraInfoContainer {
+    background-color: rgb(206, 241, 240);
+    width: 40%;
+    display: inline-block;
+}
+
+.weatherExtraInfoContainer span{
+    width: 100%;
+    display: grid;
+    line-height: 50px;
+}
+
+.weatherTempetureContainer {
+    background-color: rgb(206, 241, 240);
+    display: inline-block;
+    height: 100px;
+}
+
+.tempeture {
+    font-size: 40px;
+    font-weight: 300;
+    padding-left: 20px;
+    line-height: 100px;
+}
